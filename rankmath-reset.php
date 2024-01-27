@@ -8,4 +8,5 @@
  * Author URI:        https://ocelot.lt
  */
 
- add_filter( 'rank_math_clear_data_on_uninstall', '__return_true' );
+// https://rankmath.com/kb/uninstall/
+add_filter( 'rank_math_clear_data_on_uninstall', '__return_true' );
